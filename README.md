@@ -1,6 +1,7 @@
 # My Learning Notes
 
-### [Markdown Tutorial](http://eherrera.net/markdowntutorial/)
+### Markdown
+* [Markdown Tutorial](http://eherrera.net/markdowntutorial/)
 
 
 ### Machine Learning Specialization
