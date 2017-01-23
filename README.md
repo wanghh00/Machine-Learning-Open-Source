@@ -1,12 +1,12 @@
 # *My Notes - Data Science Learning Source*
 
-== ## *Tools* ==
+## *Tools* 
 
 #### [Markdown Tutorial](http://eherrera.net/markdowntutorial/)
 #### [iPython Notebook Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
 
 
-## *R*
+## *Statistics & Data Analysis - R *
 
 >#### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins University - Coursera]
 * Course 1 (4w) - The Data Scientist’s Toolbox
@@ -27,8 +27,14 @@
 * Course 4 (5w) - Bayesian Statistics
 * Course 5 (TBD) - Statistics with R Capstone
 
+>#### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins University - Coursera]
+* Course 1 (1w) - A Crash Course in Data Science
+* Course 2 (1w) - Building a Data Science Team
+* Course 3 (1w) - Managing Data Analysis
+* Course 4 (1w) - Data Science in Real Life
+* Course 5 (1w) - Executive Data Science Capstone
 
-## *Python*
+## *Machine Learning - Python, Matlab*
 
 >#### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) [University of Washington - Coursera] 
 * Course 1 (6w) - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
@@ -45,11 +51,22 @@
 * Course 4 (TBD) - Applied Text Mining in Python
 * Course 5 (TBD) - Applied Social Network Analysis in Python
 
-
-## *Matlab* 
-
 >#### [Machine Learning](https://www.coursera.org/learn/machine-learning) [Stanford University - Coursera]
 * Course 1 (10w) - Introduction to Data Science in Python
+
+>#### [Probabilistic Graphical Models Specialization](https://www.coursera.org/specializations/probabilistic-graphical-models)  [Stanford University - Coursera]
+* Course 1 (4w) - Probabilistic Graphical Models 1: Representation
+* Course 2 (5w) - Probabilistic Graphical Models 2: Inference
+* Course 3 (5w) - Probabilistic Graphical Models 3: Learning
+
+>#### [Robotics Specialization](https://www.coursera.org/specializations/robotics) [University of Pennsylvania]
+* Course 1 (4w) - Robotics: Aerial Robotics
+* Course 2 (4w) - Robotics: Computational Motion Planning
+* Course 3 (4w) - Robotics: Mobility
+* Course 4 (4w) - Robotics: Perception
+* Course 5 (4w) - Robotics: Estimation and Learning
+* Course 5 (6w) - Robotics: Capstone
+
 
 
 ## *Big Data - Hadoop with MapReduce, Spark, Pig and Hive, NoSQL *
@@ -61,6 +78,12 @@
 * Course 4 (5w) - Machine Learning With Big Data
 * Course 5 (5w) - Graph Analytics for Big Data
 * Course 6 (11w) - Big Data - Capstone Project
+
+>#### [Data Science at Scale Specialization](https://www.coursera.org/specializations/data-science) [University of Washington - Coursera]
+* Course 1 (4w) - Data Manipulation at Scale: Systems and Algorithms
+* Course 2 (4w) - Practical Predictive Analytics: Models and Methods
+* Course 3 (3w) - Communicating Data Science Results
+* Course 4 (6w) - Data Science at Scale - Capstone Project
 
 >#### [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop) [University of California, San Diego - Coursera]
 * Course 1 (5w) - Hadoop Platform and Application Framework
@@ -76,11 +99,3 @@
 
 
 
-## *Industry Experience*
-
->#### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins University - Coursera]
-* Course 1 (1w) - A Crash Course in Data Science
-* Course 2 (1w) - Building a Data Science Team
-* Course 3 (1w) - Managing Data Analysis
-* Course 4 (1w) - Data Science in Real Life
-* Course 5 (1w) - Executive Data Science Capstone
