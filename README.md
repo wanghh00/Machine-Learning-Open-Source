@@ -1,15 +1,13 @@
 # *My Notes - Data Science Learning Source*
 
-'''css
-## *Tools*
-'''
+== ## *Tools* ==
 
 #### [Markdown Tutorial](http://eherrera.net/markdowntutorial/)
 #### [iPython Notebook Keyboard Shortcuts](http://johnlaudun.org/20131228-ipython-notebook-keyboard-shortcuts/)
 
-'''
+
 ## *R*
-'''
+
 >#### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins University - Coursera]
 * Course 1 (4w) - The Data Scientist’s Toolbox
 * Course 2 (4w) - R Programming
@@ -29,9 +27,9 @@
 * Course 4 (5w) - Bayesian Statistics
 * Course 5 (TBD) - Statistics with R Capstone
 
-'''
+
 ## *Python*
-'''
+
 >#### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) [University of Washington - Coursera] 
 * Course 1 (6w) - [Machine Learning Foundations: A Case Study Approach](https://www.coursera.org/learn/ml-foundations)
 * Course 2 (6w) - Machine Learning: Regression
@@ -47,15 +45,15 @@
 * Course 4 (TBD) - Applied Text Mining in Python
 * Course 5 (TBD) - Applied Social Network Analysis in Python
 
-'''
+
 ## *Matlab* 
-'''
+
 >#### [Machine Learning](https://www.coursera.org/learn/machine-learning) [Stanford University - Coursera]
 * Course 1 (10w) - Introduction to Data Science in Python
 
-'''
+
 ## *Big Data - Hadoop with MapReduce, Spark, Pig and Hive, NoSQL *
-'''
+
 >#### [Big Data](https://www.coursera.org/specializations/executive-data-science) [University of California, San Diego - Coursera]
 * Course 1 (3w) - Introduction to Big Data
 * Course 2 (6w) - Big Data Modeling and Management Systems
@@ -77,9 +75,9 @@
 
 
 
-'''
+
 ## *Industry Experience*
-'''
+
 >#### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins University - Coursera]
 * Course 1 (1w) - A Crash Course in Data Science
 * Course 2 (1w) - Building a Data Science Team
