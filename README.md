@@ -12,7 +12,7 @@
 ***
 
 ## *Statistics & Data Analysis: R*
->##### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins, Coursera-10]
+>##### [Data Science Specialization ★★★](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins, Coursera-10]
 >##### [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) [Duke, Coursera-5]
 >##### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins, Coursera-5]
 
@@ -20,7 +20,7 @@
 
 ## *Machine Learning: Python, Matlab*
 
->##### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) [University of Washington, Coursera-66] 
+>##### [Machine Learning Specialization ★★★](https://www.coursera.org/specializations/machine-learning) [University of Washington, Coursera-6] 
 >##### [Data Science](http://bit.ly/harvarddatasciencevideos) & [Course](http://bit.ly/harvarddatasciencecourse)[Harvard]
  * Data wrangling, data management, exploratory data analysis to generate hypotheses and intuition, prediction based on statistical methods such as regression and classification, communication of results through visualization, stories, and summaries.
  
