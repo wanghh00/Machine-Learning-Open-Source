@@ -11,7 +11,15 @@
 
 ***
 
-## *Statistics & Data Analysis: R*
+## *Mathematics and Statistics*
+>* [Probability and Statistics](http://wiki.stat.ucla.edu/socr/index.php/Probability_and_statistics_EBook) [EBook]
+>* [Think Stats - Python](http://greenteapress.com/thinkstats/) [Website]
+>* [Statistics Done Wrong: The Woefully Complete Guide](https://www.statisticsdonewrong.com/) [Website]
+>* [Introduction to Statistical Thought - PDF](http://people.math.umass.edu/~lavine/Book/book.html) [Website](http://people.math.umass.edu/~lavine/Book/book.html)
+
+***
+
+## *Data Analysis: R*
 >##### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins, Coursera-10]  ★★★
 >##### [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) [Duke, Coursera-5]
 >##### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins, Coursera-5]
