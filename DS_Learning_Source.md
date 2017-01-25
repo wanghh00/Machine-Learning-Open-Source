@@ -17,12 +17,12 @@
 >##### [Introduction to Statistical Thought - PDF](http://people.math.umass.edu/~lavine/Book/book.html) [Website](http://people.math.umass.edu/~lavine/Book/book.html)
 
 ***
-# *Online Courses*
+># *Online Courses*
 
 ## *Data Analysis: R*
->##### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins, Coursera-10]  ★★★
->##### [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) [Duke, Coursera-5]
->##### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins, Coursera-5]
+##### [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science) [Johns Hopkins, Coursera-10]  ★★★
+##### [Statistics with R Specialization](https://www.coursera.org/specializations/statistics) [Duke, Coursera-5]
+##### [Executive Data Science Specialization](https://www.coursera.org/specializations/executive-data-science) [Johns Hopkins, Coursera-5]
 
 
 ## *Machine Learning: Python, Matlab*
