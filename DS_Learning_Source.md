@@ -27,13 +27,12 @@
 
 ### *Machine Learning: Python, Matlab*
 
-
 | Course Name                               | Instructor           | Institution     | URL          |
 | ----------------------------------------- |:--------------------:| ------------:   | ------------:| 
 | Machine Learning                          | XXX                  | U Washington    | [Coursera](https://www.coursera.org/specializations/machine-learning)|
 | Introduction to Artificial Intelligence   | Thrun,Norvig         | Stanford, Google| [Udacity](https://www.udacity.com/course/cs271)|
 
-
+>##### [Lecture Collection | Machine Learning](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599&spfreload=10) [Stanford,Andrew Ng]
 
 
 >##### [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning) [University of Washington, Coursera-6]  ★★★
